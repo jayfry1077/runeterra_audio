@@ -1,0 +1,1 @@
+from heimerdinger.invent import deck_code_to_audio, regions_to_audio

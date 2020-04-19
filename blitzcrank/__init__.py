@@ -1,0 +1,1 @@
+from blitzcrank.pull_text import card_grab
