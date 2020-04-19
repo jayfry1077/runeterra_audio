@@ -1,0 +1,9 @@
+Name. Reinforcements.
+Region. Demacia.
+Cost. 8.
+Description. Summon 2 Dauntless Vanguards, then grant Elite allies +1|+1..
+Spell Speed. Slow.
+Associated card 1. Name. Dauntless Vanguard.
+Cost. 3.
+Attack. 3.
+Health. 3. 

@@ -1,0 +1,9 @@
+Name. Avarosan Marksman.
+Region. Freljord.
+Cost. 3.
+Description. Play: Deal 1 to an enemy unit..
+Attack. 3.
+Health. 1. 
+Associated card 1. Name. Bullseye.
+Cost. 0.
+Description. Deal 1 to an enemy unit..

@@ -1,0 +1,5 @@
+Name. Mobilize.
+Region. Demacia.
+Cost. 3.
+Description. Reduce the cost of allies in hand by 1..
+Spell Speed. Burst.

@@ -1,0 +1,5 @@
+Name. Stand Alone.
+Region. Demacia.
+Cost. 3.
+Description. If you have exactly 1 ally, grant it +3|+3..
+Spell Speed. Burst.

@@ -1,0 +1,13 @@
+Name. Wraithcaller.
+Region. Shadow Isles.
+Cost. 4.
+Description. Allegiance: Summon a Mistwraith..
+Attack. 4.
+Health. 3. 
+Associated card 1. Name. Mistwraith.
+Cost. 2.
+Description. When I'm summoned, grant other allied Mistwraiths everywhere +1|+0..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Fearsome.

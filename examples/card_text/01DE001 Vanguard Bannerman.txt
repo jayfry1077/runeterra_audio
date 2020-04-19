@@ -1,0 +1,6 @@
+Name. Vanguard Bannerman.
+Region. Demacia.
+Cost. 4.
+Description. Allegiance: Grant other allies +1|+1..
+Attack. 3.
+Health. 3. 

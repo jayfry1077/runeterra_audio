@@ -1,0 +1,6 @@
+Name. Chempunk Pickpocket.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. Nexus Strike: Create in hand an exact copy of a random spell from the enemy's deck..
+Attack. 3.
+Health. 2. 

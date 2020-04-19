@@ -1,0 +1,6 @@
+Name. Soul Shepherd.
+Region. Shadow Isles.
+Cost. 2.
+Description. When you summon an Ephemeral ally, grant it +1|+1..
+Attack. 2.
+Health. 3. 

@@ -1,0 +1,5 @@
+Name. Intimidating Roar.
+Region. Noxus.
+Cost. 5.
+Description. Stun all enemies with 4 or less Power..
+Spell Speed. Slow.

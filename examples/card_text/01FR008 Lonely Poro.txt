@@ -1,0 +1,11 @@
+Name. Lonely Poro.
+Region. Freljord.
+Cost. 1.
+Description. When I'm summoned, create in hand another random 1 cost Poro from any region..
+Attack. 1.
+Health. 1. 
+Associated card 1. Name. Jubilant Poro.
+Cost. 1.
+Description. When I'm summoned, create in hand another random 1 cost Poro from any region..
+Attack. 1.
+Health. 1. 

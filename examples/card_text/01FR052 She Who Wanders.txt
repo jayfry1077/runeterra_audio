@@ -1,0 +1,9 @@
+Name. She Who Wanders.
+Region. Freljord.
+Cost. 10.
+Description. Play: Obliterate ALL followers with 4 or less Power in play and in hands..
+Attack. 10.
+Health. 10. 
+Associated card 1. Name. Balesight.
+Cost. 0.
+Description. Obliterate ALL followers with 4 or less Power in play and in hands..

@@ -1,0 +1,8 @@
+Name. Navori Conspirator.
+Region. Ionia.
+Cost. 2.
+Description. To play me, Recall an ally..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Elusive.

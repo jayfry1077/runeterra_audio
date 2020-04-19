@@ -1,0 +1,5 @@
+Name. Rising Spell Force.
+Region. Piltover & Zaun.
+Cost. 3.
+Description. Give an ally +4|+0 and Quick Attack this round..
+Spell Speed. Burst.

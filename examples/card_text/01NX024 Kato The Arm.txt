@@ -1,0 +1,6 @@
+Name. Kato The Arm.
+Region. Noxus.
+Cost. 5.
+Description. Support: Give my supported ally +3|+0 and Overwhelm this round..
+Attack. 5.
+Health. 4. 

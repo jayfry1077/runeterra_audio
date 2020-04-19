@@ -1,0 +1,5 @@
+Name. Remembrance.
+Region. Demacia.
+Cost. 6.
+Description. Costs 1 less for each ally that died this round. Summon a random 5 cost follower from Demacia..
+Spell Speed. Slow.

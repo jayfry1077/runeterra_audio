@@ -1,0 +1,7 @@
+Name. Precious Pet.
+Region. Noxus.
+Cost. 1.
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Fearsome.

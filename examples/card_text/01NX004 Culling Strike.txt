@@ -1,0 +1,5 @@
+Name. Culling Strike.
+Region. Noxus.
+Cost. 3.
+Description. Kill a unit with 3 or less Power..
+Spell Speed. Fast.

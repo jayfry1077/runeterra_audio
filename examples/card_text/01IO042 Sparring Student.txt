@@ -1,0 +1,6 @@
+Name. Sparring Student.
+Region. Ionia.
+Cost. 1.
+Description. When you summon an ally, give me +1|+1 this round..
+Attack. 1.
+Health. 1. 

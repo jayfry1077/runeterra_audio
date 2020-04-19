@@ -1,0 +1,8 @@
+Name. Yusari.
+Region. Ionia.
+Cost. 5.
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Challenger.
+2. Elusive.

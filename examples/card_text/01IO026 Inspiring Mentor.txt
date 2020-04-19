@@ -1,0 +1,6 @@
+Name. Inspiring Mentor.
+Region. Ionia.
+Cost. 1.
+Description. Play: Grant an ally in hand +1|+0..
+Attack. 1.
+Health. 2. 

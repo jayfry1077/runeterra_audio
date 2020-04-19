@@ -1,0 +1,14 @@
+Name. Clump of Whumps.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. When I'm summoned, create a Mushroom Cloud in hand..
+Attack. 2.
+Health. 2. 
+Associated card 1. Name. Mushroom Cloud.
+Cost. 1.
+Description. Plant 5 Poison Puffcaps on random cards in the enemy deck..
+Spell Speed. Burst.
+Associated card 2. Name. Poison Puffcap.
+Cost. 0.
+Description. Deal 1 to your Nexus..
+Description. Deal 1 to your Nexus..

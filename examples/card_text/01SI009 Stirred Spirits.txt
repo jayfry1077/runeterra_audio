@@ -1,0 +1,6 @@
+Name. Stirred Spirits.
+Region. Shadow Isles.
+Cost. 2.
+Description. Support: Grant my supported ally +2|+0 and Ephemeral..
+Attack. 3.
+Health. 2. 

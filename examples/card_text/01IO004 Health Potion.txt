@@ -1,0 +1,5 @@
+Name. Health Potion.
+Region. Ionia.
+Cost. 1.
+Description. Heal an ally or your Nexus 3..
+Spell Speed. Burst.

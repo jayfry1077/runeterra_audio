@@ -1,0 +1,8 @@
+Name. Jae Medarda.
+Region. Piltover & Zaun.
+Cost. 8.
+Description. When I'm targeted, draw 1..
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Elusive.

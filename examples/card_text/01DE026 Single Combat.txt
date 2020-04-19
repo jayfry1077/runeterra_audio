@@ -1,0 +1,5 @@
+Name. Single Combat.
+Region. Demacia.
+Cost. 2.
+Description. An ally and an enemy strike each other..
+Spell Speed. Fast.

@@ -1,0 +1,5 @@
+Name. Stand United.
+Region. Ionia.
+Cost. 6.
+Description. Swap two allies. Give them Barrier..
+Spell Speed. Burst.

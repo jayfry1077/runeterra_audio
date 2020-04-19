@@ -1,0 +1,27 @@
+Name. Ezreal.
+Region. Piltover & Zaun.
+Cost. 3.
+Description. Nexus Strike: Create a Fleeting Mystic Shot in hand..
+Attack. 1.
+Health. 3. 
+Keywords.
+1. Elusive.
+Level up criteria. You've targeted enemy units 8+ times..
+Associated card 1. Name. Mystic Shot.
+Cost. 2.
+Description. Deal 2 to anything..
+Spell Speed. Fast.
+Associated card 2. Name. Ezreal.
+Cost. 3.
+Description. Nexus Strike: Create a Fleeting Mystic Shot in hand.
+When you cast a spell, deal 2 to the enemy Nexus..
+Attack. 2.
+Health. 4. 
+Keywords.
+1. Elusive.
+2. Imbue.
+Associated card 3. Name. Ezreal's Mystic Shot.
+Cost. 2.
+Description. Deal 2 to anything.
+Shuffle an Ezreal into your deck..
+Spell Speed. Fast.

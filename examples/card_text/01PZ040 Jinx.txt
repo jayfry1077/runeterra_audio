@@ -1,0 +1,25 @@
+Name. Jinx.
+Region. Piltover & Zaun.
+Cost. 4.
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Quick Attack.
+Level up criteria. I see your hand is empty..
+Associated card 1. Name. Super Mega Death Rocket!.
+Cost. 2.
+Description. Deal 4 to the enemy nexus and 1 to all other enemies. Fleeting..
+Spell Speed. Slow.
+Associated card 2. Name. Jinx.
+Cost. 4.
+Description. Start of Round: Draw 1.
+Each round, the first time you empty your hand, create in hand a Super Mega Death Rocket!..
+Attack. 5.
+Health. 4. 
+Keywords.
+1. Quick Attack.
+Associated card 3. Name. Jinx's Get Excited!.
+Cost. 3.
+Description. To play, discard 1. Deal 3 to anything.
+Shuffle a Jinx into your deck..
+Spell Speed. Fast.

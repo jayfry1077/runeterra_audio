@@ -1,0 +1,20 @@
+Name. Garen.
+Region. Demacia.
+Cost. 5.
+Attack. 5.
+Health. 5. 
+Keywords.
+1. Regeneration.
+Level up criteria. I've struck twice..
+Associated card 1. Name. Garen.
+Cost. 5.
+Description. Round Start: Rally..
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Regeneration.
+Associated card 2. Name. Garen's Judgment.
+Cost. 8.
+Description. A battling ally strikes all battling enemies.
+Shuffle a Garen into your deck..
+Spell Speed. Fast.

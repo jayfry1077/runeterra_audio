@@ -1,0 +1,5 @@
+Name. Bloodsworn Pledge.
+Region. Freljord.
+Cost. 4.
+Description. Grant two allies +0|+3..
+Spell Speed. Burst.

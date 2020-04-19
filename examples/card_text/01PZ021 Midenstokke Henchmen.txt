@@ -1,0 +1,6 @@
+Name. Midenstokke Henchmen.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. Nexus Strike: Summon an exact copy of me..
+Attack. 5.
+Health. 3. 

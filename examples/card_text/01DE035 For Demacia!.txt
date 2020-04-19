@@ -1,0 +1,5 @@
+Name. For Demacia!.
+Region. Demacia.
+Cost. 6.
+Description. Give allies +3|+3 this round..
+Spell Speed. Slow.

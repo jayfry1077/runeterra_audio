@@ -1,0 +1,6 @@
+Name. Dawnspeakers.
+Region. Demacia.
+Cost. 3.
+Description. Round End: Grant other allies +1|+1 if an ally died this round..
+Attack. 1.
+Health. 4. 

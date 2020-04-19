@@ -1,0 +1,5 @@
+Name. Shadow Flare.
+Region. Ionia.
+Cost. 6.
+Description. Grant ALL battling followers Ephemeral..
+Spell Speed. Fast.

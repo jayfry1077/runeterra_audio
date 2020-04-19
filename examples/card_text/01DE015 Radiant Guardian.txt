@@ -1,0 +1,6 @@
+Name. Radiant Guardian.
+Region. Demacia.
+Cost. 5.
+Description. When I'm summoned, grant me Lifesteal and Tough if an ally died this round..
+Attack. 5.
+Health. 5. 

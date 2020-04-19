@@ -1,0 +1,26 @@
+Name. Katarina.
+Region. Noxus.
+Cost. 3.
+Description. Play: Create a Fleeting Blade's Edge in hand..
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Quick Attack.
+Level up criteria. I've struck once. When I level up, Recall me..
+Associated card 1. Name. Blade's Edge.
+Cost. 1.
+Description. Deal 1 to anything..
+Spell Speed. Fast.
+Associated card 2. Name. Katarina.
+Cost. 4.
+Description. Play: Rally.
+Strike: Recall me..
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Quick Attack.
+Associated card 3. Name. Katarina's Death Lotus.
+Cost. 2.
+Description. Deal 1 to ALL battling units.
+Shuffle a Katarina into your deck..
+Spell Speed. Fast.

@@ -1,0 +1,6 @@
+Name. Poro Herder.
+Region. Freljord.
+Cost. 4.
+Description. When I'm summoned, draw 2 Poros if you have a Poro ally..
+Attack. 3.
+Health. 4. 

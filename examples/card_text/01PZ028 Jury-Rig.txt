@@ -1,0 +1,9 @@
+Name. Jury-Rig.
+Region. Piltover & Zaun.
+Cost. 1.
+Description. When cast or discarded, summon a Scrap Scuttler..
+Spell Speed. Burst.
+Associated card 1. Name. Scrap Scuttler.
+Cost. 1.
+Attack. 1.
+Health. 1. 

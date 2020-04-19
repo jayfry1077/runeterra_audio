@@ -1,0 +1,6 @@
+Name. Astute Academic.
+Region. Piltover & Zaun.
+Cost. 1.
+Description. When you draw a card, give me +1|+0 this round..
+Attack. 1.
+Health. 2. 

@@ -1,0 +1,20 @@
+Name. Tryndamere.
+Region. Freljord.
+Cost. 8.
+Attack. 8.
+Health. 4. 
+Keywords.
+1. Overwhelm.
+Level up criteria. If I would die, I Level Up instead..
+Associated card 1. Name. Tryndamere.
+Cost. 8.
+Attack. 9.
+Health. 9. 
+Keywords.
+1. Overwhelm.
+2. Fearsome.
+Associated card 2. Name. Tryndamere's Battle Fury.
+Cost. 8.
+Description. Grant an ally +8|+4.
+Shuffle a Tryndamere into your deck..
+Spell Speed. Burst.

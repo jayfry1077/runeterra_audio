@@ -1,0 +1,5 @@
+Name. Glimpse Beyond.
+Region. Shadow Isles.
+Cost. 2.
+Description. Kill an ally to draw 2..
+Spell Speed. Fast.

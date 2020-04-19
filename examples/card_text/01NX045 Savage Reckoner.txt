@@ -1,0 +1,8 @@
+Name. Savage Reckoner.
+Region. Noxus.
+Cost. 7.
+Attack. 7.
+Health. 4. 
+Keywords.
+1. Overwhelm.
+2. Challenger.

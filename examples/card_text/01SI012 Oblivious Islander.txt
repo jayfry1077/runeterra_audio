@@ -1,0 +1,6 @@
+Name. Oblivious Islander.
+Region. Shadow Isles.
+Cost. 1.
+Description. Play: Grant an ally in hand Ephemeral and reduce its cost by 1..
+Attack. 2.
+Health. 1. 

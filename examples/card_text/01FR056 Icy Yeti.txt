@@ -1,0 +1,6 @@
+Name. Icy Yeti.
+Region. Freljord.
+Cost. 7.
+Description. When I'm summoned, Frostbite enemies with 3 or less Health..
+Attack. 5.
+Health. 5. 

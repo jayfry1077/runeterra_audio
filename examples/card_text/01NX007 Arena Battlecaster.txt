@@ -1,0 +1,6 @@
+Name. Arena Battlecaster.
+Region. Noxus.
+Cost. 2.
+Description. Attack: Give other battling allies +1|+0 this round..
+Attack. 2.
+Health. 2. 

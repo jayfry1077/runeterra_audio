@@ -1,0 +1,5 @@
+Name. Mark of the Isles.
+Region. Shadow Isles.
+Cost. 1.
+Description. Grant an ally +2|+2 and Ephemeral..
+Spell Speed. Burst.

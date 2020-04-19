@@ -1,0 +1,5 @@
+Name. Redoubled Valor.
+Region. Demacia.
+Cost. 6.
+Description. Fully heal an ally, then double its Power and Health..
+Spell Speed. Slow.

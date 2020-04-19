@@ -1,0 +1,5 @@
+Name. Entreat.
+Region. Freljord.
+Cost. 2.
+Description. Draw a Champion..
+Spell Speed. Burst.

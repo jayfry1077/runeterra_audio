@@ -1,0 +1,6 @@
+Name. Wyrding Stones.
+Region. Freljord.
+Cost. 3.
+Description. Round Start: Get an extra mana gem this round..
+Attack. 0.
+Health. 4. 

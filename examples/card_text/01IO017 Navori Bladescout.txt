@@ -1,0 +1,6 @@
+Name. Navori Bladescout.
+Region. Ionia.
+Cost. 1.
+Description. When I'm summoned, give me Elusive this round..
+Attack. 2.
+Health. 1. 

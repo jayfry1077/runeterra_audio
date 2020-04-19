@@ -1,0 +1,5 @@
+Name. Elixir of Wrath.
+Region. Noxus.
+Cost. 1.
+Description. Give an ally +3|+0 this round..
+Spell Speed. Burst.

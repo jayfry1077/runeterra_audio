@@ -1,0 +1,5 @@
+Name. Reckoning.
+Region. Noxus.
+Cost. 6.
+Description. If you have a 5+ Power ally, kill ALL units with 4 or less Power..
+Spell Speed. Slow.

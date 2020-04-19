@@ -1,0 +1,9 @@
+Name. Noxian Guillotine.
+Region. Noxus.
+Cost. 3.
+Description. Kill a damaged unit to create a Fleeting Noxian Guillotine in hand..
+Spell Speed. Fast.
+Associated card 1. Name. Noxian Guillotine.
+Cost. 3.
+Description. Kill a damaged unit to create a Fleeting Noxian Guillotine in hand..
+Spell Speed. Fast.

@@ -1,0 +1,5 @@
+Name. Sown Seeds.
+Region. Ionia.
+Cost. 2.
+Description. Grant allies in hand +1|+0..
+Spell Speed. Burst.

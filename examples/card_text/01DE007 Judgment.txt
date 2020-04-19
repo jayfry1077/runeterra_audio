@@ -1,0 +1,5 @@
+Name. Judgment.
+Region. Demacia.
+Cost. 8.
+Description. A battling ally strikes all battling enemies..
+Spell Speed. Fast.

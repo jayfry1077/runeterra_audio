@@ -1,0 +1,8 @@
+Name. Frenzied Skitterer.
+Region. Shadow Isles.
+Cost. 3.
+Description. When I'm summoned, give other allied Spiders +1|+0 and enemies -1|-0 this round..
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Fearsome.

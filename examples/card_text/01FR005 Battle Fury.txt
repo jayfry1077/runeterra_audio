@@ -1,0 +1,5 @@
+Name. Battle Fury.
+Region. Freljord.
+Cost. 8.
+Description. Grant an ally +8|+4..
+Spell Speed. Burst.

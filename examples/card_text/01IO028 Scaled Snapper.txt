@@ -1,0 +1,6 @@
+Name. Scaled Snapper.
+Region. Ionia.
+Cost. 3.
+Description. Play: Grant me +3|+0 or +0|+3..
+Attack. 2.
+Health. 2. 

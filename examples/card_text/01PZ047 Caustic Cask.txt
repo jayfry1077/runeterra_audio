@@ -1,0 +1,9 @@
+Name. Caustic Cask.
+Region. Piltover & Zaun.
+Cost. 0.
+Description. Last Breath: Deal 1 to EACH Nexus..
+Attack. 0.
+Health. 1. 
+Keywords.
+1. Last Breath.
+2. Ephemeral.

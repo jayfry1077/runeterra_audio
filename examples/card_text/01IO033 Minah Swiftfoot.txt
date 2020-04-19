@@ -1,0 +1,9 @@
+Name. Minah Swiftfoot.
+Region. Ionia.
+Cost. 9.
+Description. Play: Recall 3 enemies..
+Attack. 6.
+Health. 5. 
+Associated card 1. Name. Skyward Strikes.
+Cost. 0.
+Description. Recall 3 enemies..

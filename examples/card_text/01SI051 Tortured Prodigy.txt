@@ -1,0 +1,6 @@
+Name. Tortured Prodigy.
+Region. Shadow Isles.
+Cost. 5.
+Description. When an ally dies, refill your spell mana..
+Attack. 4.
+Health. 4. 

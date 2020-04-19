@@ -1,0 +1,5 @@
+Name. Transfusion.
+Region. Noxus.
+Cost. 2.
+Description. Deal 1 to an ally to give another ally +2|+2 this round..
+Spell Speed. Burst.

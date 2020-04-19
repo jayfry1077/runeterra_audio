@@ -1,0 +1,6 @@
+Name. Crimson Aristocrat.
+Region. Noxus.
+Cost. 2.
+Description. Play: Deal 1 to an ally and grant it +2|+0..
+Attack. 2.
+Health. 2. 

@@ -1,0 +1,5 @@
+Name. Blood for Blood.
+Region. Noxus.
+Cost. 2.
+Description. Deal 1 to an allied follower. If it survives, create a copy of it in hand..
+Spell Speed. Fast.

@@ -1,0 +1,6 @@
+Name. Basilisk Rider.
+Region. Noxus.
+Cost. 4.
+Description. Allegiance: Grant me +1|+1 and Overwhelm..
+Attack. 5.
+Health. 2. 

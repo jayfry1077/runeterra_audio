@@ -1,0 +1,9 @@
+Name. Chempunk Shredder.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. Play: Deal 1 to all enemy units..
+Attack. 5.
+Health. 2. 
+Associated card 1. Name. Face-Melter.
+Cost. 0.
+Description. Deal 1 to all enemy units..

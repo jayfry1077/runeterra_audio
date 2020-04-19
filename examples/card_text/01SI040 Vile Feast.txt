@@ -1,0 +1,9 @@
+Name. Vile Feast.
+Region. Shadow Isles.
+Cost. 2.
+Description. Drain 1 from a unit to summon a Spiderling..
+Spell Speed. Fast.
+Associated card 1. Name. Spiderling.
+Cost. 1.
+Attack. 1.
+Health. 1. 

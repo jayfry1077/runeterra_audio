@@ -1,0 +1,6 @@
+Name. Ravenous Butcher.
+Region. Shadow Isles.
+Cost. 0.
+Description. To play me, kill an ally..
+Attack. 3.
+Health. 2. 

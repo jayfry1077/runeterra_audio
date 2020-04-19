@@ -1,0 +1,5 @@
+Name. Winter's Breath.
+Region. Freljord.
+Cost. 7.
+Description. Kill all enemies with 0 Power, then Frostbite all enemies..
+Spell Speed. Slow.

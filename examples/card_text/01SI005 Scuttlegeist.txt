@@ -1,0 +1,8 @@
+Name. Scuttlegeist.
+Region. Shadow Isles.
+Cost. 10.
+Description. Reduce my cost by 1 for each ally that died this game..
+Attack. 5.
+Health. 5. 
+Keywords.
+1. Fearsome.

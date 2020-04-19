@@ -1,0 +1,6 @@
+Name. Vanguard Squire.
+Region. Demacia.
+Cost. 4.
+Description. When you summon an Elite, reduce my cost by 1..
+Attack. 3.
+Health. 3. 

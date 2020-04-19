@@ -1,0 +1,6 @@
+Name. Greenglade Lookout.
+Region. Ionia.
+Cost. 2.
+Description. Strike: Reduce the cost of the most expensive unit in your hand by 1..
+Attack. 2.
+Health. 1. 

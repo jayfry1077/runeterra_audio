@@ -1,0 +1,5 @@
+Name. Spirit's Refuge.
+Region. Ionia.
+Cost. 4.
+Description. Give an ally Barrier and Lifesteal this round..
+Spell Speed. Burst.

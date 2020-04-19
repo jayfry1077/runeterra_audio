@@ -1,0 +1,27 @@
+Name. Lucian.
+Region. Demacia.
+Cost. 2.
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Quick Attack.
+Level up criteria. I've seen 4+ allies or an allied Senna, Sentinel of Light die..
+Associated card 1. Name. Senna, Sentinel of Light.
+Cost. 3.
+Description. The first time I see an allied Lucian die, grant me +1|+1 and Double Attack..
+Attack. 4.
+Health. 2. 
+Keywords.
+1. Quick Attack.
+Associated card 2. Name. Lucian.
+Cost. 2.
+Description. Each round, the first time an ally dies, Rally..
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Double Attack.
+Associated card 3. Name. Lucian's Relentless Pursuit.
+Cost. 3.
+Description. Rally.
+Shuffle a Lucian into your deck..
+Spell Speed. Fast.

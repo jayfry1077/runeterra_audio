@@ -1,0 +1,10 @@
+Name. Avarosan Trapper.
+Region. Freljord.
+Cost. 3.
+Description. When I'm summoned, create an Enraged Yeti in the top 3 cards of your deck..
+Attack. 3.
+Health. 3. 
+Associated card 1. Name. Enraged Yeti.
+Cost. 1.
+Attack. 5.
+Health. 5. 

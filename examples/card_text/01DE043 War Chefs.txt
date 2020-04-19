@@ -1,0 +1,6 @@
+Name. War Chefs.
+Region. Demacia.
+Cost. 2.
+Description. Support: Give my supported ally +1|+1 this round..
+Attack. 2.
+Health. 3. 

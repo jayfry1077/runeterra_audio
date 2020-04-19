@@ -1,0 +1,27 @@
+Name. Zed.
+Region. Ionia.
+Cost. 3.
+Description. Attack: Create an attacking Living Shadow with my stats..
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Quick Attack.
+Level up criteria. My shadows and I have struck the enemy Nexus twice..
+Associated card 1. Name. Zed.
+Cost. 3.
+Description. Attack: Create an attacking Living Shadow with my stats and keywords..
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Quick Attack.
+Associated card 2. Name. Zed's Shadowshift.
+Cost. 3.
+Description. Recall an ally to summon a Living Shadow in its place.
+Shuffle a Zed into your deck..
+Spell Speed. Fast.
+Associated card 3. Name. Living Shadow.
+Cost. 3.
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Ephemeral.

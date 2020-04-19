@@ -1,0 +1,5 @@
+Name. Harsh Winds.
+Region. Freljord.
+Cost. 6.
+Description. Frostbite 2 enemies. .
+Spell Speed. Burst.

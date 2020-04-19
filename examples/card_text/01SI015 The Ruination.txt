@@ -1,0 +1,5 @@
+Name. The Ruination.
+Region. Shadow Isles.
+Cost. 9.
+Description. Kill ALL units..
+Spell Speed. Slow.

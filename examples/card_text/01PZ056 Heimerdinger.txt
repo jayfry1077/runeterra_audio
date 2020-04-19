@@ -1,0 +1,71 @@
+Name. Heimerdinger.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. When you cast a spell, create a Fleeting Turret in hand with equal cost. It costs 0 this round..
+Attack. 1.
+Health. 3. 
+Keywords.
+1. Imbue.
+Level up criteria. I've seen you summon 12+ Power of Turrets..
+Associated card 1. Name. Heimerdinger.
+Cost. 5.
+Description. When you cast a spell, create a Fleeting Turret in hand with equal cost. Grant it +1|+1 and it costs 0 this round..
+Attack. 2.
+Health. 4. 
+Keywords.
+1. Imbue.
+Associated card 2. Name. Heimerdinger's Progress Day!.
+Cost. 8.
+Description. Draw 3, then reduce those cards' costs by 1.
+Shuffle a Heimerdinger into your deck..
+Spell Speed. Burst.
+Associated card 3. Name. Mk0: Windup Shredder.
+Cost. 0.
+Attack. 0.
+Health. 1. 
+Keywords.
+1. Challenger.
+Associated card 4. Name. Mk1: Wrenchbot.
+Cost. 1.
+Attack. 1.
+Health. 1. 
+Associated card 5. Name. Mk2: Evolution Turret.
+Cost. 2.
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Tough.
+Associated card 6. Name. Mk3: Floor-B-Gone.
+Cost. 3.
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Elusive.
+Associated card 7. Name. Mk4: Apex Turret.
+Cost. 4.
+Attack. 4.
+Health. 1. 
+Keywords.
+1. Fearsome.
+Associated card 8. Name. Mk5: Rocket Blaster.
+Cost. 5.
+Attack. 5.
+Health. 1. 
+Keywords.
+1. Quick Attack.
+Associated card 9. Name. Mk6: Stormlobber.
+Cost. 6.
+Attack. 6.
+Health. 1. 
+Keywords.
+1. Overwhelm.
+Associated card 10. Name. Mk7: Armored Stomper.
+Cost. 7.
+Attack. 7.
+Health. 1. 
+Keywords.
+1. Barrier.
+Associated card 11. Name. T-Hex.
+Cost. 8.
+Attack. 8.
+Health. 8. 

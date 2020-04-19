@@ -1,0 +1,20 @@
+Name. Fiora.
+Region. Demacia.
+Cost. 3.
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Challenger.
+Level up criteria. I've killed 2 enemies..
+Associated card 1. Name. Fiora.
+Cost. 3.
+Description. When I've killed 4 enemies and survived, you win the game. .
+Attack. 4.
+Health. 4. 
+Keywords.
+1. Challenger.
+Associated card 2. Name. Fiora's Riposte.
+Cost. 4.
+Description. Give an ally +3|+0 and Barrier this round.
+Shuffle a Fiora into your deck..
+Spell Speed. Burst.

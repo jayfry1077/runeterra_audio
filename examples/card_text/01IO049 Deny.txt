@@ -1,0 +1,5 @@
+Name. Deny.
+Region. Ionia.
+Cost. 4.
+Description. Stop a Fast spell, Slow spell, or Skill..
+Spell Speed. Fast.

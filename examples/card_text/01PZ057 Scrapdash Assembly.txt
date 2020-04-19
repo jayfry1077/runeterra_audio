@@ -1,0 +1,9 @@
+Name. Scrapdash Assembly.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. Summon 2 Scrap Scuttlers..
+Spell Speed. Slow.
+Associated card 1. Name. Scrap Scuttler.
+Cost. 1.
+Attack. 1.
+Health. 1. 

@@ -1,0 +1,5 @@
+Name. Vengeance.
+Region. Shadow Isles.
+Cost. 7.
+Description. Kill a unit..
+Spell Speed. Fast.

@@ -1,0 +1,6 @@
+Name. Shiraza the Blade.
+Region. Noxus.
+Cost. 4.
+Description. I deal double damage to the Nexus..
+Attack. 3.
+Health. 3. 

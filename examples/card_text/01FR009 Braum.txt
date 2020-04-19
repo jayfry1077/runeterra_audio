@@ -1,0 +1,28 @@
+Name. Braum.
+Region. Freljord.
+Cost. 3.
+Attack. 0.
+Health. 5. 
+Keywords.
+1. Challenger.
+2. Regeneration.
+Level up criteria. I've survived 10 total damage..
+Associated card 1. Name. Braum.
+Cost. 3.
+Description. When I survive damage, summon a Mighty Poro..
+Attack. 0.
+Health. 7. 
+Keywords.
+1. Challenger.
+2. Regeneration.
+Associated card 2. Name. Braum's Take Heart.
+Cost. 3.
+Description. Grant a damaged ally +3|+3.
+Shuffle a Braum into your deck..
+Spell Speed. Burst.
+Associated card 3. Name. Mighty Poro.
+Cost. 3.
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Overwhelm.

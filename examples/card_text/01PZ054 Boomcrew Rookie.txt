@@ -1,0 +1,9 @@
+Name. Boomcrew Rookie.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. Attack: Deal 2 to the enemy Nexus..
+Attack. 1.
+Health. 4. 
+Associated card 1. Name. Undermine.
+Cost. 0.
+Description. Deal 2 to the enemy Nexus..

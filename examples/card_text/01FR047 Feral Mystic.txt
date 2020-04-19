@@ -1,0 +1,8 @@
+Name. Feral Mystic.
+Region. Freljord.
+Cost. 2.
+Description. Enlightened: I have +4|+4..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Overwhelm.

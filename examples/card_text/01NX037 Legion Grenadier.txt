@@ -1,0 +1,8 @@
+Name. Legion Grenadier.
+Region. Noxus.
+Cost. 2.
+Description. Last Breath: Deal 2 to the enemy Nexus..
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Last Breath.

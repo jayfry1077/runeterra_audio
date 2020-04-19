@@ -1,0 +1,6 @@
+Name. Kinkou Wayfinder.
+Region. Ionia.
+Cost. 4.
+Description. Allegiance: Summon two 1 cost allies from our deck..
+Attack. 2.
+Health. 3. 

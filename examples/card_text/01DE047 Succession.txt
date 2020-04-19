@@ -1,0 +1,9 @@
+Name. Succession.
+Region. Demacia.
+Cost. 3.
+Description. Summon a Dauntless Vanguard..
+Spell Speed. Slow.
+Associated card 1. Name. Dauntless Vanguard.
+Cost. 3.
+Attack. 3.
+Health. 3. 

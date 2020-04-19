@@ -1,0 +1,5 @@
+Name. Rush.
+Region. Ionia.
+Cost. 1.
+Description. Give an ally +1|+0 and Quick Attack this round..
+Spell Speed. Burst.

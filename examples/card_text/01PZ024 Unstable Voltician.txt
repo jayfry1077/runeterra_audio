@@ -1,0 +1,6 @@
+Name. Unstable Voltician.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. Grant me +4|+0 and Quick Attack once you've cast a 6+ cost spell this game..
+Attack. 4.
+Health. 4. 

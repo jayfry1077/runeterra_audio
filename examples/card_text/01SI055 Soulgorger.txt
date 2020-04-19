@@ -1,0 +1,7 @@
+Name. Soulgorger.
+Region. Shadow Isles.
+Cost. 6.
+Attack. 3.
+Health. 7. 
+Keywords.
+1. Lifesteal.

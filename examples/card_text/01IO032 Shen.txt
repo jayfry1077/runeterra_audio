@@ -1,0 +1,18 @@
+Name. Shen.
+Region. Ionia.
+Cost. 4.
+Description. Support: Give my supported ally Barrier..
+Attack. 2.
+Health. 5. 
+Level up criteria. I've seen allies gain Barrier 4+ times..
+Associated card 1. Name. Shen.
+Cost. 4.
+Description. Support: Give my supported ally Barrier.
+When an ally gets Barrier, give it +3|+0 this round..
+Attack. 3.
+Health. 6. 
+Associated card 2. Name. Shen's Stand United.
+Cost. 6.
+Description. Swap two allies. Give them Barrier.
+Shuffle a Shen into your deck..
+Spell Speed. Burst.

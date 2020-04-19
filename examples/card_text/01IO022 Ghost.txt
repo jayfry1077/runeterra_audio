@@ -1,0 +1,5 @@
+Name. Ghost.
+Region. Ionia.
+Cost. 1.
+Description. Give an ally Elusive this round..
+Spell Speed. Burst.

@@ -1,0 +1,5 @@
+Name. Vanguard Lookout.
+Region. Demacia.
+Cost. 2.
+Attack. 1.
+Health. 4. 

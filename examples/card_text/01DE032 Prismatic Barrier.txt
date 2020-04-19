@@ -1,0 +1,5 @@
+Name. Prismatic Barrier.
+Region. Demacia.
+Cost. 3.
+Description. Give an ally Barrier this round..
+Spell Speed. Burst.

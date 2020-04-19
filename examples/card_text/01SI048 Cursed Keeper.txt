@@ -1,0 +1,13 @@
+Name. Cursed Keeper.
+Region. Shadow Isles.
+Cost. 2.
+Description. Last Breath: Summon an Escaped Abomination..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Can't Block.
+2. Last Breath.
+Associated card 1. Name. Escaped Abomination.
+Cost. 2.
+Attack. 4.
+Health. 4. 

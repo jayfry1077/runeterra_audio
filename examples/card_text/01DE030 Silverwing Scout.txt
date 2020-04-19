@@ -1,0 +1,8 @@
+Name. Silverwing Scout.
+Region. Demacia.
+Cost. 4.
+Attack. 2.
+Health. 3. 
+Keywords.
+1. Elusive.
+2. Tough.

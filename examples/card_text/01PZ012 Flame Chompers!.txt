@@ -1,0 +1,8 @@
+Name. Flame Chompers!.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. When I'm discarded, summon me..
+Attack. 0.
+Health. 2. 
+Keywords.
+1. Challenger.

@@ -1,0 +1,13 @@
+Name. Heart of the Fluft.
+Region. Freljord.
+Cost. 6.
+Description. Play: Combine all of our Poros into a Fluft of Poros, it gains their stats and keywords..
+Attack. 4.
+Health. 4. 
+Associated card 1. Name. Fluft of Poros.
+Cost. 6.
+Description. Last Breath: Summon a Heart of the Fluft..
+Attack. 4.
+Health. 4. 
+Keywords.
+1. Last Breath.

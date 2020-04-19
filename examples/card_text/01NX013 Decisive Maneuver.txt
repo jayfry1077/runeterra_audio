@@ -1,0 +1,5 @@
+Name. Decisive Maneuver.
+Region. Noxus.
+Cost. 5.
+Description. Stun an enemy. Give all allies +2|+0 this round..
+Spell Speed. Fast.

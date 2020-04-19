@@ -1,0 +1,6 @@
+Name. Rivershaper.
+Region. Ionia.
+Cost. 3.
+Description. Strike: Draw a spell..
+Attack. 2.
+Health. 1. 

@@ -1,0 +1,6 @@
+Name. Legion Drummer.
+Region. Noxus.
+Cost. 2.
+Description. Support: Give my supported ally Quick Attack this round..
+Attack. 3.
+Health. 2. 

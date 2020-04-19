@@ -1,0 +1,8 @@
+Name. Battering Ram.
+Region. Noxus.
+Cost. 6.
+Description. Attack: Grant me +4|+0..
+Attack. 0.
+Health. 12. 
+Keywords.
+1. Overwhelm.

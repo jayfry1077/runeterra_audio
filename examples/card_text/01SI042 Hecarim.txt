@@ -1,0 +1,28 @@
+Name. Hecarim.
+Region. Shadow Isles.
+Cost. 6.
+Description. Attack: Summon 2 attacking Spectral Riders..
+Attack. 4.
+Health. 5. 
+Keywords.
+1. Overwhelm.
+Level up criteria. You've attacked with 7+ Ephemeral allies..
+Associated card 1. Name. Hecarim.
+Cost. 6.
+Description. Ephemeral allies have +3|+0.
+Attack: Summon 2 attacking Spectral Riders..
+Attack. 5.
+Health. 6. 
+Keywords.
+1. Overwhelm.
+Associated card 2. Name. Hecarim's Onslaught of Shadows.
+Cost. 2.
+Description. Summon 2 Spectral Riders.
+Shuffle a Hecarim into deck..
+Spell Speed. Slow.
+Associated card 3. Name. Spectral Rider.
+Cost. 2.
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Ephemeral.

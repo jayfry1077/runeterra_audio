@@ -1,0 +1,8 @@
+Name. Spectral Matron.
+Region. Shadow Isles.
+Cost. 8.
+Description. Play: Pick an ally in hand. Summon an exact copy of it. It's Ephemeral..
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Fearsome.

@@ -1,0 +1,30 @@
+Name. Anivia.
+Region. Freljord.
+Cost. 7.
+Description. Attack: Deal 1 to all enemies.
+Last Breath: Revive me transformed into Eggnivia..
+Attack. 2.
+Health. 4. 
+Keywords.
+1. Last Breath.
+Level up criteria. You're Enlightened..
+Associated card 1. Name. Glacial Storm.
+Cost. 0.
+Description. Deal 1 to all enemies..
+Associated card 2. Name. Anivia.
+Cost. 7.
+Description. Attack: Deal 2 to all enemies.
+Last Breath: Revive me transformed into Eggnivia..
+Attack. 3.
+Health. 5. 
+Keywords.
+1. Last Breath.
+Associated card 3. Name. Anivia's Harsh Winds.
+Cost. 6.
+Description. Frostbite 2 enemies.
+Shuffle an Anivia into your deck..
+Spell Speed. Burst.
+Associated card 4. Name. Eggnivia.
+Cost. 1.
+Attack. 0.
+Health. 2. 

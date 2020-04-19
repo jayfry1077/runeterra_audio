@@ -1,0 +1,8 @@
+Name. Crowd Favorite.
+Region. Noxus.
+Cost. 4.
+Description. When I'm summoned, grant me +1|+1 for each other ally you have..
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Overwhelm.

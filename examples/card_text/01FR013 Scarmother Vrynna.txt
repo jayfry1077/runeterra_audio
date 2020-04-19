@@ -1,0 +1,8 @@
+Name. Scarmother Vrynna.
+Region. Freljord.
+Cost. 6.
+Description. When I survive damage, grant me +3|+0..
+Attack. 3.
+Health. 8. 
+Keywords.
+1. Overwhelm.

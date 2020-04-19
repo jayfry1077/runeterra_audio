@@ -1,0 +1,5 @@
+Name. Fading Memories.
+Region. Shadow Isles.
+Cost. 0.
+Description. Pick a follower. Create an Ephemeral copy of it in hand..
+Spell Speed. Burst.

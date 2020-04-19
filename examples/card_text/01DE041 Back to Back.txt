@@ -1,0 +1,5 @@
+Name. Back to Back.
+Region. Demacia.
+Cost. 6.
+Description. Give two allies +3|+3 this round..
+Spell Speed. Burst.

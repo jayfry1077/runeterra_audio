@@ -1,0 +1,11 @@
+Name. Shadowshift.
+Region. Ionia.
+Cost. 3.
+Description. Recall an ally to summon a Living Shadow in its place..
+Spell Speed. Fast.
+Associated card 1. Name. Living Shadow.
+Cost. 3.
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Ephemeral.

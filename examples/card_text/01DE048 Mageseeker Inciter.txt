@@ -1,0 +1,6 @@
+Name. Mageseeker Inciter.
+Region. Demacia.
+Cost. 4.
+Description. Grant me +2|+2 once you've cast a 6+ cost spell this game..
+Attack. 4.
+Health. 3. 

@@ -1,0 +1,6 @@
+Name. Chronicler of Ruin.
+Region. Shadow Isles.
+Cost. 4.
+Description. Play: Kill an ally, then revive it..
+Attack. 3.
+Health. 3. 

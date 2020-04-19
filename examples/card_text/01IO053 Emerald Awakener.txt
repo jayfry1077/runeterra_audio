@@ -1,0 +1,8 @@
+Name. Emerald Awakener.
+Region. Ionia.
+Cost. 3.
+Description. Enlightened: I have +4|+4..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Lifesteal.

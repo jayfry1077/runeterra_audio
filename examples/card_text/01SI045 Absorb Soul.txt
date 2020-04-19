@@ -1,0 +1,5 @@
+Name. Absorb Soul.
+Region. Shadow Isles.
+Cost. 1.
+Description. Drain 4 from an ally unit..
+Spell Speed. Fast.

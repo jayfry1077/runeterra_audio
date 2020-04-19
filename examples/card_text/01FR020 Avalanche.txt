@@ -1,0 +1,5 @@
+Name. Avalanche.
+Region. Freljord.
+Cost. 4.
+Description. Deal 2 to ALL units..
+Spell Speed. Slow.

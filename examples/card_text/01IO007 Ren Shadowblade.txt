@@ -1,0 +1,6 @@
+Name. Ren Shadowblade.
+Region. Ionia.
+Cost. 8.
+Description. When the enemy summons a follower, grant it Ephemeral..
+Attack. 6.
+Health. 4. 

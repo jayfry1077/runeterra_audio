@@ -1,0 +1,6 @@
+Name. Icevale Archer.
+Region. Freljord.
+Cost. 2.
+Description. Play: Frostbite an enemy..
+Attack. 3.
+Health. 1. 

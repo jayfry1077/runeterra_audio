@@ -1,0 +1,6 @@
+Name. Rimetusk Shaman.
+Region. Freljord.
+Cost. 5.
+Description. Round Start: Frostbite the Strongest enemy..
+Attack. 3.
+Health. 3. 

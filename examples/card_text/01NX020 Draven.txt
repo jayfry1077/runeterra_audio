@@ -1,0 +1,27 @@
+Name. Draven.
+Region. Noxus.
+Cost. 3.
+Description. Play or Strike: Create a Spinning Axe in hand..
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Quick Attack.
+Level up criteria. I've struck with two total Spinning Axe..
+Associated card 1. Name. Spinning Axe.
+Cost. 0.
+Description. To play, discard 1.
+Give an ally +1|+0 this round..
+Spell Speed. Burst.
+Associated card 2. Name. Draven.
+Cost. 3.
+Description. Play or Strike: Create 2 Spinning Axe in hand..
+Attack. 4.
+Health. 4. 
+Keywords.
+1. Quick Attack.
+2. Overwhelm.
+Associated card 3. Name. Draven's Whirling Death.
+Cost. 3.
+Description. A battling ally strikes a battling enemy.
+Shuffle a Draven into your deck..
+Spell Speed. Fast.

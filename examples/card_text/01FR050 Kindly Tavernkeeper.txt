@@ -1,0 +1,6 @@
+Name. Kindly Tavernkeeper.
+Region. Freljord.
+Cost. 3.
+Description. Play: Heal an ally or your Nexus 3..
+Attack. 2.
+Health. 3. 

@@ -1,0 +1,10 @@
+Name. Shark Chariot.
+Region. Shadow Isles.
+Cost. 2.
+Description. Last Breath: The next time an Ephemeral ally attacks, revive me attacking..
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Can't Block.
+2. Ephemeral.
+3. Last Breath.

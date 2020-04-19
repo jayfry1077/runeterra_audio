@@ -1,0 +1,5 @@
+Name. Ritual of Renewal.
+Region. Ionia.
+Cost. 7.
+Description. Heal an ally or your Nexus 7. Draw 1..
+Spell Speed. Slow.

@@ -1,0 +1,20 @@
+Name. Kalista.
+Region. Shadow Isles.
+Cost. 3.
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Fearsome.
+Level up criteria. I've seen 3+ allies die..
+Associated card 1. Name. Kalista.
+Cost. 3.
+Description. The first time I attack each round, revive an attacking Ephemeral copy of the Strongest dead allied follower. This round, we're bonded and it takes damage for me..
+Attack. 5.
+Health. 4. 
+Keywords.
+1. Fearsome.
+Associated card 2. Name. Kalista's Black Spear.
+Cost. 3.
+Description. If an ally died this round, deal 3 to a unit.
+Shuffle a Kalista into your deck..
+Spell Speed. Fast.

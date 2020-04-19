@@ -1,0 +1,9 @@
+Name. Shady Character.
+Region. Piltover & Zaun.
+Cost. 4.
+Description. Play: Pick a follower. Transform me into an exact copy of it..
+Attack. 1.
+Health. 3. 
+Associated card 1. Name. Impersonate.
+Cost. 0.
+Description. Pick a follower. Transform me into an exact copy of it..

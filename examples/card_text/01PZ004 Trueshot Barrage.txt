@@ -1,0 +1,5 @@
+Name. Trueshot Barrage.
+Region. Piltover & Zaun.
+Cost. 7.
+Description. Deal 3 to an enemy or the enemy Nexus, 2 to another, and 1 to another..
+Spell Speed. Slow.

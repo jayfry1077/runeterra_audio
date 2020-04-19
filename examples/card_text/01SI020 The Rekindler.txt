@@ -1,0 +1,6 @@
+Name. The Rekindler.
+Region. Shadow Isles.
+Cost. 7.
+Description. When I'm summoned, revive the Strongest dead allied champion..
+Attack. 4.
+Health. 4. 

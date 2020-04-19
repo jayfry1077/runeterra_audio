@@ -1,0 +1,10 @@
+Name. Sumpsnipe Scavenger.
+Region. Piltover & Zaun.
+Cost. 4.
+Description. Allegiance: Create a Sumpworks Map in hand. It costs 0 this round..
+Attack. 4.
+Health. 3. 
+Associated card 1. Name. Sumpworks Map.
+Cost. 2.
+Description. Grant an ally Elusive..
+Spell Speed. Burst.

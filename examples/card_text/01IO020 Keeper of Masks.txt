@@ -1,0 +1,6 @@
+Name. Keeper of Masks.
+Region. Ionia.
+Cost. 2.
+Description. When I'm summoned, give other allies +1|+0 this round..
+Attack. 2.
+Health. 3. 

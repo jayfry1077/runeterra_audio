@@ -1,0 +1,6 @@
+Name. Cithria the Bold.
+Region. Demacia.
+Cost. 6.
+Description. Attack: Give other battling allies +1|+1 and Fearsome this round..
+Attack. 6.
+Health. 6. 

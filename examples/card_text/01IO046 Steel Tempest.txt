@@ -1,0 +1,5 @@
+Name. Steel Tempest.
+Region. Ionia.
+Cost. 3.
+Description. Stun an attacking enemy..
+Spell Speed. Fast.

@@ -1,0 +1,6 @@
+Name. Trifarian Hopeful.
+Region. Noxus.
+Cost. 2.
+Description. When I'm summoned, grant me +2|+0 if you have another Noxus ally..
+Attack. 3.
+Health. 2. 

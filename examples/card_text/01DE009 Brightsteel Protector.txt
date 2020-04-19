@@ -1,0 +1,6 @@
+Name. Brightsteel Protector.
+Region. Demacia.
+Cost. 2.
+Description. Play: Give an ally Barrier..
+Attack. 3.
+Health. 2. 

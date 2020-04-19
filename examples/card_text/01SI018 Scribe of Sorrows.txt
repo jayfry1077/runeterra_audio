@@ -1,0 +1,6 @@
+Name. Scribe of Sorrows.
+Region. Shadow Isles.
+Cost. 3.
+Description. When I'm summoned, create a copy in hand of an ally that died this game..
+Attack. 2.
+Health. 3. 

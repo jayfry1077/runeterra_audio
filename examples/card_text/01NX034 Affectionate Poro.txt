@@ -1,0 +1,7 @@
+Name. Affectionate Poro.
+Region. Noxus.
+Cost. 1.
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Challenger.

@@ -1,0 +1,9 @@
+Name. Corina Veraza.
+Region. Piltover & Zaun.
+Cost. 9.
+Description. Play: Obliterate the top 5 cards of your deck to deal 1 to all enemies for each spell obliterated..
+Attack. 6.
+Health. 6. 
+Associated card 1. Name. Magnum Opus.
+Cost. 0.
+Description. Obliterate the top 5 cards of your deck to deal 1 to all enemies for each spell obliterated..

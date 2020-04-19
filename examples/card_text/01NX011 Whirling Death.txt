@@ -1,0 +1,5 @@
+Name. Whirling Death.
+Region. Noxus.
+Cost. 3.
+Description. A battling ally strikes a battling enemy..
+Spell Speed. Fast.

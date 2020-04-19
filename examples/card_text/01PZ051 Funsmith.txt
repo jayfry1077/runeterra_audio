@@ -1,0 +1,6 @@
+Name. Funsmith.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. All of your spells and Skills deal 1 extra damage..
+Attack. 2.
+Health. 3. 

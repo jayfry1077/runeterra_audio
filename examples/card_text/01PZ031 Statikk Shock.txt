@@ -1,0 +1,6 @@
+Name. Statikk Shock.
+Region. Piltover & Zaun.
+Cost. 4.
+Description. Deal 1 to an enemy or the enemy Nexus, and 1 to another.
+Draw 1..
+Spell Speed. Fast.

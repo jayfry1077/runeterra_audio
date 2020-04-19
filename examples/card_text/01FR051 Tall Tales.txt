@@ -1,0 +1,9 @@
+Name. Tall Tales.
+Region. Freljord.
+Cost. 3.
+Description. If you have a Yeti, summon an Enraged Yeti. Otherwise, create one on top of your deck..
+Spell Speed. Slow.
+Associated card 1. Name. Enraged Yeti.
+Cost. 1.
+Attack. 5.
+Health. 5. 

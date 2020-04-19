@@ -1,0 +1,8 @@
+Name. Assembly Bot.
+Region. Piltover & Zaun.
+Cost. 3.
+Description. When you cast a spell, grant me +1|+1..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Imbue.

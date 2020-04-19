@@ -1,0 +1,5 @@
+Name. En Garde.
+Region. Demacia.
+Cost. 3.
+Description. Give allies Challenger this round..
+Spell Speed. Burst.

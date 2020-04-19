@@ -1,0 +1,6 @@
+Name. Trifarian Assessor.
+Region. Noxus.
+Cost. 4.
+Description. When I'm summoned, draw 1 for each 5+ Power ally you have..
+Attack. 4.
+Health. 3. 

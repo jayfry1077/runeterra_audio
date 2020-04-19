@@ -1,0 +1,12 @@
+Name. Captain Farron.
+Region. Noxus.
+Cost. 8.
+Description. Play: Replace your hand with Decimates..
+Attack. 8.
+Health. 8. 
+Keywords.
+1. Overwhelm.
+Associated card 1. Name. Decimate.
+Cost. 5.
+Description. Deal 4 to the enemy Nexus..
+Spell Speed. Slow.

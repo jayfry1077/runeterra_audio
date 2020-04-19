@@ -1,0 +1,6 @@
+Name. Minotaur Reckoner.
+Region. Noxus.
+Cost. 6.
+Description. Round Start: Stun the Weakest enemy..
+Attack. 6.
+Health. 6. 

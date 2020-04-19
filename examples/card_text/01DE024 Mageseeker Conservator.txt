@@ -1,0 +1,8 @@
+Name. Mageseeker Conservator.
+Region. Demacia.
+Cost. 1.
+Description. Last Breath: Create in hand a 6+ cost spell from a region other than Demacia..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Last Breath.

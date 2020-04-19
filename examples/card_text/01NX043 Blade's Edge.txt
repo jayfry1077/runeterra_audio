@@ -1,0 +1,5 @@
+Name. Blade's Edge.
+Region. Noxus.
+Cost. 1.
+Description. Deal 1 to anything..
+Spell Speed. Fast.

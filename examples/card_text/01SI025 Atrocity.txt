@@ -1,0 +1,5 @@
+Name. Atrocity.
+Region. Shadow Isles.
+Cost. 6.
+Description. Kill an ally to deal damage equal to its Power to anything..
+Spell Speed. Fast.

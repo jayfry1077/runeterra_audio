@@ -1,0 +1,9 @@
+Name. The Undying.
+Region. Shadow Isles.
+Cost. 3.
+Description. Last Breath: Revive me next Round Start and grant me +1|+1 for each time I've died. .
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Can't Block.
+2. Last Breath.

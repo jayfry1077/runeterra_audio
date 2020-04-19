@@ -1,0 +1,12 @@
+Name. Fresh Offerings.
+Region. Shadow Isles.
+Cost. 3.
+Description. If 3+ allies have died this round, summon Vilemaw.
+.
+Spell Speed. Slow.
+Associated card 1. Name. Vilemaw.
+Cost. 3.
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Fearsome.

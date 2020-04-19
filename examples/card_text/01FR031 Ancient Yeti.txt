@@ -1,0 +1,8 @@
+Name. Ancient Yeti.
+Region. Freljord.
+Cost. 7.
+Description. Round End: If I'm in hand, reduce my cost by 1..
+Attack. 5.
+Health. 5. 
+Keywords.
+1. Overwhelm.

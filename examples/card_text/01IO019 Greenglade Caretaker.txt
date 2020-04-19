@@ -1,0 +1,6 @@
+Name. Greenglade Caretaker.
+Region. Ionia.
+Cost. 1.
+Description. When an ally gets Barrier, grant me +2|+0..
+Attack. 1.
+Health. 2. 

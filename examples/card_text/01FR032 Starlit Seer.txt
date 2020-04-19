@@ -1,0 +1,8 @@
+Name. Starlit Seer.
+Region. Freljord.
+Cost. 2.
+Description. When you cast a spell, grant the top ally in your deck +1|+1..
+Attack. 2.
+Health. 3. 
+Keywords.
+1. Imbue.

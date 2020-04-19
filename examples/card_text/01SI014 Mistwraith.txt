@@ -1,0 +1,8 @@
+Name. Mistwraith.
+Region. Shadow Isles.
+Cost. 2.
+Description. When I'm summoned, grant other allied Mistwraiths everywhere +1|+0..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Fearsome.

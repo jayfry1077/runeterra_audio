@@ -1,0 +1,5 @@
+Name. Might.
+Region. Noxus.
+Cost. 3.
+Description. Give an ally +3|+0 and Overwhelm this round..
+Spell Speed. Burst.

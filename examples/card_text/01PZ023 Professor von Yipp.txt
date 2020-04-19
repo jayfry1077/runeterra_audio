@@ -1,0 +1,6 @@
+Name. Professor von Yipp.
+Region. Piltover & Zaun.
+Cost. 4.
+Description. When you summon a 1 cost ally, grant it +2|+2..
+Attack. 2.
+Health. 3. 

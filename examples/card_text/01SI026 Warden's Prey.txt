@@ -1,0 +1,8 @@
+Name. Warden's Prey.
+Region. Shadow Isles.
+Cost. 1.
+Description. Last Breath: Create in hand another Last Breath follower from any region that costs 3 or less..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Last Breath.

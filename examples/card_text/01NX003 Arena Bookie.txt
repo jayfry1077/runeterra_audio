@@ -1,0 +1,6 @@
+Name. Arena Bookie.
+Region. Noxus.
+Cost. 3.
+Description. Round Start: Discard your lowest cost card to draw 1..
+Attack. 2.
+Health. 1. 

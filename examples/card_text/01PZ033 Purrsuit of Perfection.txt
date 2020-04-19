@@ -1,0 +1,11 @@
+Name. Purrsuit of Perfection.
+Region. Piltover & Zaun.
+Cost. 5.
+Description. If you've played 20 cards with different names this game, summon Catastrophe. .
+Spell Speed. Slow.
+Associated card 1. Name. Catastrophe.
+Cost. 1.
+Attack. 30.
+Health. 30. 
+Keywords.
+1. Overwhelm.

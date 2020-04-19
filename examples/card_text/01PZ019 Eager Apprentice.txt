@@ -1,0 +1,6 @@
+Name. Eager Apprentice.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. When I'm summoned, refill 2 spell mana..
+Attack. 2.
+Health. 1. 

@@ -1,0 +1,6 @@
+Name. Babbling Bjerg.
+Region. Freljord.
+Cost. 4.
+Description. When I'm summoned, draw a unit with 5+ Power..
+Attack. 3.
+Health. 3. 

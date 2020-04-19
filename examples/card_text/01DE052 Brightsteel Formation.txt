@@ -1,0 +1,6 @@
+Name. Brightsteel Formation.
+Region. Demacia.
+Cost. 9.
+Description. Play or Attack: Give all allies Barrier..
+Attack. 9.
+Health. 9. 

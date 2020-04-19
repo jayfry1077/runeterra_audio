@@ -1,0 +1,11 @@
+Name. Rhasa the Sunderer.
+Region. Shadow Isles.
+Cost. 8.
+Description. Play: Kill the 2 Weakest enemies if an ally died this round..
+Attack. 7.
+Health. 5. 
+Keywords.
+1. Fearsome.
+Associated card 1. Name. Night Harvest.
+Cost. 0.
+Description. Kill the 2 Weakest enemies if an ally died this round..

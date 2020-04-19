@@ -1,0 +1,11 @@
+Name. Insight of Ages.
+Region. Ionia.
+Cost. 2.
+Description. Create another random spell in hand.
+Enlightened: Create 2 instead..
+Spell Speed. Burst.
+Associated card 1. Name. Insight of Ages.
+Cost. 2.
+Description. Create another random spell in hand.
+Enlightened: Create 2 instead..
+Spell Speed. Burst.

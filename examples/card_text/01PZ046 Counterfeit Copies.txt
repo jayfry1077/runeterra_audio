@@ -1,0 +1,5 @@
+Name. Counterfeit Copies.
+Region. Piltover & Zaun.
+Cost. 1.
+Description. Pick a card in hand. Shuffle 4 exact copies of it into your deck..
+Spell Speed. Burst.

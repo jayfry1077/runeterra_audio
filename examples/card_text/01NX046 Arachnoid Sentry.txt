@@ -1,0 +1,9 @@
+Name. Arachnoid Sentry.
+Region. Noxus.
+Cost. 3.
+Description. Play: Stun an enemy..
+Attack. 3.
+Health. 2. 
+Associated card 1. Name. Paralyzing Bite.
+Cost. 0.
+Description. Stun an enemy..

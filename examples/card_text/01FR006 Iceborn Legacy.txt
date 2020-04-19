@@ -1,0 +1,5 @@
+Name. Iceborn Legacy.
+Region. Freljord.
+Cost. 5.
+Description. Grant an ally and all allied copies of it everywhere +2|+2..
+Spell Speed. Slow.

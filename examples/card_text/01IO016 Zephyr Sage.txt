@@ -1,0 +1,6 @@
+Name. Zephyr Sage.
+Region. Ionia.
+Cost. 6.
+Description. Play: Create an exact copy of a card in hand..
+Attack. 4.
+Health. 4. 

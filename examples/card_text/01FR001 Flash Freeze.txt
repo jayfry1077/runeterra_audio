@@ -1,0 +1,5 @@
+Name. Flash Freeze.
+Region. Freljord.
+Cost. 3.
+Description. Frostbite an enemy..
+Spell Speed. Burst.

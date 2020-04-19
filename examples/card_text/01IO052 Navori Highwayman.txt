@@ -1,0 +1,10 @@
+Name. Navori Highwayman.
+Region. Ionia.
+Cost. 2.
+Description. When I'm summoned, summon a Navori Brigand with my stats..
+Attack. 1.
+Health. 2. 
+Associated card 1. Name. Navori Brigand.
+Cost. 2.
+Attack. 1.
+Health. 2. 

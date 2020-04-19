@@ -1,0 +1,5 @@
+Name. The Harrowing.
+Region. Shadow Isles.
+Cost. 10.
+Description. Revive the 6 Strongest allies that died this game and grant them Ephemeral..
+Spell Speed. Slow.

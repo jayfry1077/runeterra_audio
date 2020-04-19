@@ -1,0 +1,6 @@
+Name. Cloud Drinker.
+Region. Ionia.
+Cost. 6.
+Description. Your Burst spells cost 1 less..
+Attack. 3.
+Health. 5. 

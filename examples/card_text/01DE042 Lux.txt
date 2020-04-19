@@ -1,0 +1,24 @@
+Name. Lux.
+Region. Demacia.
+Cost. 6.
+Attack. 4.
+Health. 5. 
+Keywords.
+1. Barrier.
+Level up criteria. I've seen you cast 6+ mana of spells. When I level up, create a Final Spark in hand..
+Associated card 1. Name. Lux.
+Cost. 6.
+Description. When I see you spend 6+ mana on spells, create a Final Spark in hand. .
+Attack. 5.
+Health. 6. 
+Keywords.
+1. Barrier.
+Associated card 2. Name. Lux's Prismatic Barrier.
+Cost. 3.
+Description. Give an ally Barrier this round.
+Shuffle a Lux into your deck..
+Spell Speed. Burst.
+Associated card 3. Name. Final Spark.
+Cost. 0.
+Description. Deal 4 to an enemy unit. Fleeting..
+Spell Speed. Slow.

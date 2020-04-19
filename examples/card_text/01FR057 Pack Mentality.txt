@@ -1,0 +1,5 @@
+Name. Pack Mentality.
+Region. Freljord.
+Cost. 7.
+Description. Give allies +2|+2 and Overwhelm this round..
+Spell Speed. Slow.

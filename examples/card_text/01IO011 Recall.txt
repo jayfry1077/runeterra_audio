@@ -1,0 +1,5 @@
+Name. Recall.
+Region. Ionia.
+Cost. 1.
+Description. Recall an ally..
+Spell Speed. Fast.

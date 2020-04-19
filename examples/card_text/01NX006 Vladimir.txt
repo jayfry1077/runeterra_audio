@@ -1,0 +1,22 @@
+Name. Vladimir.
+Region. Noxus.
+Cost. 5.
+Description. Attack: For each other attacking ally, deal 1 to it and 1 to the enemy Nexus..
+Attack. 5.
+Health. 5. 
+Level up criteria. You've had 6+ allies survive damage..
+Associated card 1. Name. Crimson Pact.
+Cost. 0.
+Description. For each attacking ally other than Vladimir, deal 1 to it and 1 to the enemy Nexus..
+Associated card 2. Name. Vladimir.
+Cost. 5.
+Description. Attack: For each other attacking ally, deal 1 to it and 1 to the enemy Nexus..
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Regeneration.
+Associated card 3. Name. Vladimir's Transfusion.
+Cost. 2.
+Description. Deal 1 to an ally and give another ally +2|+2 this round.
+Shuffle a Vladimir into deck..
+Spell Speed. Burst.

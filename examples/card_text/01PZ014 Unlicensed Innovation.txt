@@ -1,0 +1,9 @@
+Name. Unlicensed Innovation.
+Region. Piltover & Zaun.
+Cost. 6.
+Description. Summon an Illegal Contraption..
+Spell Speed. Slow.
+Associated card 1. Name. Illegal Contraption.
+Cost. 6.
+Attack. 5.
+Health. 5. 

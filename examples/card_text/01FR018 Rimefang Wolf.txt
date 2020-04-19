@@ -1,0 +1,8 @@
+Name. Rimefang Wolf.
+Region. Freljord.
+Cost. 3.
+Description. Strike: If I struck a unit with 0 Power, kill it..
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Challenger.

@@ -1,0 +1,8 @@
+Name. Shadow Assassin.
+Region. Ionia.
+Cost. 3.
+Description. When I'm summoned, draw 1..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Elusive.

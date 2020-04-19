@@ -1,0 +1,6 @@
+Name. Ethereal Remitter.
+Region. Shadow Isles.
+Cost. 5.
+Description. Play: Kill an ally to summon a random follower from any region that costs 2 more..
+Attack. 4.
+Health. 3. 

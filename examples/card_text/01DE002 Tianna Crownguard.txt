@@ -1,0 +1,8 @@
+Name. Tianna Crownguard.
+Region. Demacia.
+Cost. 8.
+Description. When I'm summoned, Rally..
+Attack. 7.
+Health. 7. 
+Keywords.
+1. Tough.

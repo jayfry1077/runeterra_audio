@@ -1,0 +1,6 @@
+Name. Vanguard Redeemer.
+Region. Demacia.
+Cost. 3.
+Description. When I'm summoned, draw a unit if an ally died this round..
+Attack. 3.
+Health. 3. 

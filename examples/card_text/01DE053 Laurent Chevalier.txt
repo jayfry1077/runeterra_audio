@@ -1,0 +1,8 @@
+Name. Laurent Chevalier.
+Region. Demacia.
+Cost. 4.
+Description. Strike: Create another random Challenger follower in hand..
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Challenger.

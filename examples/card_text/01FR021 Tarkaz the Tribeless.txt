@@ -1,0 +1,9 @@
+Name. Tarkaz the Tribeless.
+Region. Freljord.
+Cost. 5.
+Description. Attack: Deal 1 to ALL battling units..
+Attack. 5.
+Health. 8. 
+Associated card 1. Name. Tarkaz's Fury.
+Cost. 0.
+Description. Deal 1 to ALL battling units..

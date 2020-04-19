@@ -1,0 +1,5 @@
+Name. Black Spear.
+Region. Shadow Isles.
+Cost. 3.
+Description. If an ally died this round, deal 3 to a unit..
+Spell Speed. Fast.

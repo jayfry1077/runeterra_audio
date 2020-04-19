@@ -1,0 +1,8 @@
+Name. Avarosan Outriders.
+Region. Freljord.
+Cost. 4.
+Description. Allegiance: Grant the top unit in our deck +3|+3 and Overwhelm..
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Overwhelm.

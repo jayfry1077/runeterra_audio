@@ -1,0 +1,5 @@
+Name. Radiant Strike.
+Region. Demacia.
+Cost. 1.
+Description. Give an ally +1|+1 this round..
+Spell Speed. Burst.

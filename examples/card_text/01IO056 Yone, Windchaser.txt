@@ -1,0 +1,9 @@
+Name. Yone, Windchaser.
+Region. Ionia.
+Cost. 7.
+Description. Play: Stun 2 enemies..
+Attack. 6.
+Health. 6. 
+Associated card 1. Name. Staggering Strikes.
+Cost. 0.
+Description. Stun 2 enemies..

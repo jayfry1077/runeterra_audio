@@ -1,0 +1,22 @@
+Name. Ashe.
+Region. Freljord.
+Cost. 4.
+Description. Attack: Frostbite the Strongest enemy..
+Attack. 5.
+Health. 3. 
+Level up criteria. You Frostbite 5+ enemies. When I level up, create a Crystal Arrow on top of deck..
+Associated card 1. Name. Ashe.
+Cost. 4.
+Description. Attack: Frostbite the Strongest enemy.
+Enemies with 0 Power can't block..
+Attack. 6.
+Health. 4. 
+Associated card 2. Name. Ashe's Flash Freeze.
+Cost. 3.
+Description. Frostbite an enemy.
+Shuffle an Ashe into your deck..
+Spell Speed. Burst.
+Associated card 3. Name. Crystal Arrow.
+Cost. 2.
+Description. Frostbite an enemy and all other enemies with 3 or less Health. Draw 1..
+Spell Speed. Slow.

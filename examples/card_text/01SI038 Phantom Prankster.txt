@@ -1,0 +1,6 @@
+Name. Phantom Prankster.
+Region. Shadow Isles.
+Cost. 3.
+Description. When another ally dies, deal 1 to the enemy Nexus..
+Attack. 0.
+Health. 3. 

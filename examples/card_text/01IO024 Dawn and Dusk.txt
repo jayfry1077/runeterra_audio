@@ -1,0 +1,5 @@
+Name. Dawn and Dusk.
+Region. Ionia.
+Cost. 6.
+Description. Summon 2 exact copies of an ally. They're Ephemeral..
+Spell Speed. Slow.

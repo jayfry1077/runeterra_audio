@@ -1,0 +1,7 @@
+Name. Legion Rearguard.
+Region. Noxus.
+Cost. 1.
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Can't Block.

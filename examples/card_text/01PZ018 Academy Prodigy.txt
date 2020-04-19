@@ -1,0 +1,7 @@
+Name. Academy Prodigy.
+Region. Piltover & Zaun.
+Cost. 2.
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Quick Attack.

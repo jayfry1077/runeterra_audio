@@ -1,0 +1,9 @@
+Name. Swiftwing Lancer.
+Region. Demacia.
+Cost. 5.
+Description. LastBreath: Create a random Elite in hand..
+Attack. 5.
+Health. 4. 
+Keywords.
+1. Last Breath.
+2. Challenger.

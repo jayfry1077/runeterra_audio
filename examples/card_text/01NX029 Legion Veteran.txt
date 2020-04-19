@@ -1,0 +1,6 @@
+Name. Legion Veteran.
+Region. Noxus.
+Cost. 4.
+Description. When another ally survives damage, grant it +1|+0..
+Attack. 4.
+Health. 5. 

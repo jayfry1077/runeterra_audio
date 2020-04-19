@@ -1,0 +1,5 @@
+Name. Mist's Call.
+Region. Shadow Isles.
+Cost. 3.
+Description. Revive a random ally that died this round..
+Spell Speed. Fast.

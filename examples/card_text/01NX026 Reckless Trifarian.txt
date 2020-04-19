@@ -1,0 +1,7 @@
+Name. Reckless Trifarian.
+Region. Noxus.
+Cost. 3.
+Attack. 5.
+Health. 4. 
+Keywords.
+1. Can't Block.

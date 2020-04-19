@@ -1,0 +1,12 @@
+Name. Hapless Aristocrat.
+Region. Shadow Isles.
+Cost. 1.
+Description. Last Breath: Summon a Spiderling..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Last Breath.
+Associated card 1. Name. Spiderling.
+Cost. 1.
+Attack. 1.
+Health. 1. 

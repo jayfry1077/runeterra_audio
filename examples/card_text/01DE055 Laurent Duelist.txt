@@ -1,0 +1,6 @@
+Name. Laurent Duelist.
+Region. Demacia.
+Cost. 3.
+Description. Play: Give an ally Challenger this round..
+Attack. 4.
+Health. 2. 

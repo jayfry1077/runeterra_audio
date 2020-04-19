@@ -1,0 +1,5 @@
+Name. Hextech Transmogulator.
+Region. Piltover & Zaun.
+Cost. 6.
+Description. Transform a follower into another follower..
+Spell Speed. Fast.

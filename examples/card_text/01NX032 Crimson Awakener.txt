@@ -1,0 +1,6 @@
+Name. Crimson Awakener.
+Region. Noxus.
+Cost. 4.
+Description. When I'm summoned, deal 1 to all other allies..
+Attack. 5.
+Health. 5. 

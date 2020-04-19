@@ -1,0 +1,8 @@
+Name. Eminent Benefactor.
+Region. Piltover & Zaun.
+Cost. 4.
+Description. Last Breath: Create a random Epic card in hand..
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Last Breath.

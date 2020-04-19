@@ -1,0 +1,9 @@
+Name. Augmented Experimenter.
+Region. Piltover & Zaun.
+Cost. 6.
+Description. Play: Discard your hand. Draw 3. Deal 3 to an enemy unit..
+Attack. 3.
+Health. 3. 
+Associated card 1. Name. Reckless Research.
+Cost. 0.
+Description. Discard your hand. Draw 3. Deal 3 to an enemy unit..

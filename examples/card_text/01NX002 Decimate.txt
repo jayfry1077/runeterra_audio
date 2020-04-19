@@ -1,0 +1,5 @@
+Name. Decimate.
+Region. Noxus.
+Cost. 5.
+Description. Deal 4 to the enemy Nexus..
+Spell Speed. Slow.

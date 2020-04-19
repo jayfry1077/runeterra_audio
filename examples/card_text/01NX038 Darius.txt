@@ -1,0 +1,19 @@
+Name. Darius.
+Region. Noxus.
+Cost. 6.
+Attack. 6.
+Health. 5. 
+Keywords.
+1. Overwhelm.
+Level up criteria. I see the enemy Nexus has 10 or less Health..
+Associated card 1. Name. Darius.
+Cost. 6.
+Attack. 10.
+Health. 5. 
+Keywords.
+1. Overwhelm.
+Associated card 2. Name. Darius's Decimate.
+Cost. 5.
+Description. Deal 4 to the enemy Nexus.
+Shuffle a Darius into your deck..
+Spell Speed. Slow.

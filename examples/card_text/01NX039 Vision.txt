@@ -1,0 +1,5 @@
+Name. Vision.
+Region. Noxus.
+Cost. 3.
+Description. When cast or discarded, grant allies +1|+0..
+Spell Speed. Burst.

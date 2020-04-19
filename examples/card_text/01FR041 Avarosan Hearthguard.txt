@@ -1,0 +1,6 @@
+Name. Avarosan Hearthguard.
+Region. Freljord.
+Cost. 5.
+Description. When I'm summoned, grant allies in your deck +1|+1..
+Attack. 5.
+Health. 5. 

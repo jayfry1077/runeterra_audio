@@ -1,0 +1,5 @@
+Name. Will of Ionia.
+Region. Ionia.
+Cost. 4.
+Description. Recall a unit..
+Spell Speed. Fast.

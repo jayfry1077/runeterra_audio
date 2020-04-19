@@ -1,0 +1,5 @@
+Name. Possession.
+Region. Shadow Isles.
+Cost. 5.
+Description. Steal an enemy follower this round. (Can't play if you have 6 allies already.).
+Spell Speed. Slow.

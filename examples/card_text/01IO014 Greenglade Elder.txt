@@ -1,0 +1,6 @@
+Name. Greenglade Elder.
+Region. Ionia.
+Cost. 3.
+Description. When I'm summoned, grant allies in hand +1|+1..
+Attack. 1.
+Health. 1. 

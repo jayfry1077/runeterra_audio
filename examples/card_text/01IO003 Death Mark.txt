@@ -1,0 +1,5 @@
+Name. Death Mark.
+Region. Ionia.
+Cost. 3.
+Description. Remove Ephemeral from an ally to grant it to an enemy..
+Spell Speed. Fast.

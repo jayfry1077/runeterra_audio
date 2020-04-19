@@ -1,0 +1,20 @@
+Name. Thresh.
+Region. Shadow Isles.
+Cost. 5.
+Attack. 3.
+Health. 6. 
+Keywords.
+1. Challenger.
+Level up criteria. I've seen 6+ units die..
+Associated card 1. Name. Thresh.
+Cost. 5.
+Description. The first time I attack this game, summon another attacking champion from your deck or hand..
+Attack. 4.
+Health. 7. 
+Keywords.
+1. Challenger.
+Associated card 2. Name. Thresh's The Box.
+Cost. 4.
+Description. Deal 3 to each enemy that was summoned this round.
+Shuffle a Thresh into deck..
+Spell Speed. Fast.

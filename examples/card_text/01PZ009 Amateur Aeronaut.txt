@@ -1,0 +1,7 @@
+Name. Amateur Aeronaut.
+Region. Piltover & Zaun.
+Cost. 3.
+Attack. 2.
+Health. 3. 
+Keywords.
+1. Elusive.

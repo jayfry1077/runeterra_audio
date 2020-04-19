@@ -1,0 +1,5 @@
+Name. Grasp of the Undying.
+Region. Shadow Isles.
+Cost. 5.
+Description. Drain 3 from a unit..
+Spell Speed. Fast.

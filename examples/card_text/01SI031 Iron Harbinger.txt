@@ -1,0 +1,8 @@
+Name. Iron Harbinger.
+Region. Shadow Isles.
+Cost. 3.
+Description. Attack: Grant me +1|+0 for each Ephemeral ally in play..
+Attack. 2.
+Health. 4. 
+Keywords.
+1. Fearsome.

@@ -1,0 +1,5 @@
+Name. Mystic Shot.
+Region. Piltover & Zaun.
+Cost. 2.
+Description. Deal 2 to anything..
+Spell Speed. Fast.

@@ -1,0 +1,5 @@
+Name. Warmother's Call.
+Region. Freljord.
+Cost. 12.
+Description. Summon the top unit from our deck now and EACH Round Start..
+Spell Speed. Slow.

@@ -1,0 +1,5 @@
+Name. Progress Day!.
+Region. Piltover & Zaun.
+Cost. 8.
+Description. Draw 3, then reduce those cards' costs by 1..
+Spell Speed. Burst.

@@ -1,0 +1,5 @@
+Name. Death Lotus.
+Region. Noxus.
+Cost. 2.
+Description. Deal 1 to ALL battling units..
+Spell Speed. Fast.

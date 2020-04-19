@@ -1,0 +1,9 @@
+Name. Crawling Sensation.
+Region. Shadow Isles.
+Cost. 1.
+Description. If an ally died this round, summon 2 Spiderlings..
+Spell Speed. Slow.
+Associated card 1. Name. Spiderling.
+Cost. 1.
+Attack. 1.
+Health. 1. 

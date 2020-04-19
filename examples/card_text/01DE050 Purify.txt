@@ -1,0 +1,5 @@
+Name. Purify.
+Region. Demacia.
+Cost. 2.
+Description. Silence a follower..
+Spell Speed. Burst.

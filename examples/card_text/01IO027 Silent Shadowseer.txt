@@ -1,0 +1,9 @@
+Name. Silent Shadowseer.
+Region. Ionia.
+Cost. 2.
+Description. Nexus Strike: Create a copy of me in hand..
+Attack. 3.
+Health. 1. 
+Keywords.
+1. Elusive.
+2. Ephemeral.

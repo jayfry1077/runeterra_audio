@@ -1,0 +1,8 @@
+Name. Greenglade Duo.
+Region. Ionia.
+Cost. 2.
+Description. When you summon an ally, give me +1|+0 this round..
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Elusive.

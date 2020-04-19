@@ -1,0 +1,5 @@
+Name. The Box.
+Region. Shadow Isles.
+Cost. 4.
+Description. Deal 3 to each enemy that was summoned this round..
+Spell Speed. Fast.

@@ -1,0 +1,13 @@
+Name. Commander Ledros.
+Region. Shadow Isles.
+Cost. 9.
+Description. Play: Deal damage to the enemy Nexus equal to half its Health, rounded up.
+Last Breath: Return me to hand..
+Attack. 9.
+Health. 6. 
+Keywords.
+1. Fearsome.
+2. Last Breath.
+Associated card 1. Name. Blade of Ledros.
+Cost. 0.
+Description. Deal damage to the enemy Nexus equal to half its Health, rounded up..

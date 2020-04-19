@@ -1,0 +1,6 @@
+Name. Jeweled Protector.
+Region. Ionia.
+Cost. 5.
+Description. Play: Grant an ally in hand +3|+3..
+Attack. 4.
+Health. 4. 

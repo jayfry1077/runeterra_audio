@@ -1,0 +1,5 @@
+Name. Guile.
+Region. Noxus.
+Cost. 1.
+Description. Stun an enemy..
+Spell Speed. Slow.

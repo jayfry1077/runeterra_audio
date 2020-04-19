@@ -1,0 +1,6 @@
+Name. Ki Guardian.
+Region. Ionia.
+Cost. 2.
+Description. Grant Barrier to an ally in hand. 
+Draw 1..
+Spell Speed. Burst.

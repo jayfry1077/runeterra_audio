@@ -1,0 +1,21 @@
+Name. Yasuo.
+Region. Ionia.
+Cost. 4.
+Description. When you Stun or Recall an enemy, I deal 2 to it..
+Attack. 4.
+Health. 4. 
+Keywords.
+1. Quick Attack.
+Level up criteria. You Stun or Recall 5+ units..
+Associated card 1. Name. Yasuo.
+Cost. 4.
+Description. When you Stun or Recall an enemy, I strike it..
+Attack. 5.
+Health. 5. 
+Keywords.
+1. Quick Attack.
+Associated card 2. Name. Yasuo's Steel Tempest.
+Cost. 3.
+Description. Stun an attacking enemy.
+Shuffle a Yasuo into your deck..
+Spell Speed. Fast.

@@ -1,0 +1,7 @@
+Name. Arachnoid Horror.
+Region. Shadow Isles.
+Cost. 2.
+Attack. 3.
+Health. 2. 
+Keywords.
+1. Fearsome.

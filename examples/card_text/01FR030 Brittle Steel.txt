@@ -1,0 +1,5 @@
+Name. Brittle Steel.
+Region. Freljord.
+Cost. 1.
+Description. Frostbite an enemy with 3 or less Health..
+Spell Speed. Burst.

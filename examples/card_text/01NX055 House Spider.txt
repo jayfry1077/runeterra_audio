@@ -1,0 +1,10 @@
+Name. House Spider.
+Region. Noxus.
+Cost. 2.
+Description. When I'm summoned, summon a Spiderling..
+Attack. 2.
+Health. 2. 
+Associated card 1. Name. Spiderling.
+Cost. 1.
+Attack. 1.
+Health. 1. 

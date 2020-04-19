@@ -1,0 +1,6 @@
+Name. Arachnoid Host.
+Region. Noxus.
+Cost. 5.
+Description. When I'm summoned, grant other Spider allies +2|+0..
+Attack. 5.
+Health. 3. 

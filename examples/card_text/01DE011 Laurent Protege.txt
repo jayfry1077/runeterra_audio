@@ -1,0 +1,7 @@
+Name. Laurent Protege.
+Region. Demacia.
+Cost. 3.
+Attack. 2.
+Health. 4. 
+Keywords.
+1. Challenger.

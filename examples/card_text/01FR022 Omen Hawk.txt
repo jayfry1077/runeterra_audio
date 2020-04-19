@@ -1,0 +1,6 @@
+Name. Omen Hawk.
+Region. Freljord.
+Cost. 1.
+Description. When I'm summoned, grant the top 2 allies in your deck +1|+1..
+Attack. 1.
+Health. 1. 

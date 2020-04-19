@@ -1,0 +1,26 @@
+Name. Elise.
+Region. Shadow Isles.
+Cost. 2.
+Description. Attack: Summon an attacking Spiderling..
+Attack. 2.
+Health. 3. 
+Keywords.
+1. Fearsome.
+Level up criteria. Round Start: You have 3+ other Spiders..
+Associated card 1. Name. Spider Queen Elise.
+Cost. 2.
+Description. Other Spider allies have Challenger and Fearsome..
+Attack. 4.
+Health. 3. 
+Keywords.
+1. Fearsome.
+2. Challenger.
+Associated card 2. Name. Elise's Crawling Sensation.
+Cost. 1.
+Description. If an ally died this round, summon 2 Spiderlings.
+Shuffle a Elise into your deck..
+Spell Speed. Slow.
+Associated card 3. Name. Spiderling.
+Cost. 1.
+Attack. 1.
+Health. 1. 

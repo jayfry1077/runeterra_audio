@@ -1,0 +1,10 @@
+Name. Vanguard Sergeant.
+Region. Demacia.
+Cost. 3.
+Description. When I'm summoned, create a For Demacia! in hand..
+Attack. 3.
+Health. 3. 
+Associated card 1. Name. For Demacia!.
+Cost. 6.
+Description. Give allies +3|+3 this round..
+Spell Speed. Slow.

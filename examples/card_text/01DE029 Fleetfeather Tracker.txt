@@ -1,0 +1,6 @@
+Name. Fleetfeather Tracker.
+Region. Demacia.
+Cost. 1.
+Description. When you summon another ally, grant me Challenger..
+Attack. 2.
+Health. 1. 

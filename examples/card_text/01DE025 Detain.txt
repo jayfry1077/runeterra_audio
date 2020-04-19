@@ -1,0 +1,5 @@
+Name. Detain.
+Region. Demacia.
+Cost. 5.
+Description. An ally Captures a unit..
+Spell Speed. Fast.

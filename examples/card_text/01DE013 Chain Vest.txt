@@ -1,0 +1,5 @@
+Name. Chain Vest.
+Region. Demacia.
+Cost. 1.
+Description. Grant an ally Tough..
+Spell Speed. Burst.

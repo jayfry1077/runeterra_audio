@@ -1,0 +1,6 @@
+Name. Herald of Spring.
+Region. Ionia.
+Cost. 2.
+Description. Support: Give my supported ally Lifesteal this round..
+Attack. 2.
+Health. 2. 

@@ -1,0 +1,8 @@
+Name. Darkwater Scourge.
+Region. Shadow Isles.
+Cost. 3.
+Attack. 5.
+Health. 5. 
+Keywords.
+1. Ephemeral.
+2. Lifesteal.

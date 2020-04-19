@@ -1,0 +1,6 @@
+Name. Mageseeker Persuader.
+Region. Demacia.
+Cost. 2.
+Description. Grant me +1|+1 and Challenger once you've cast a 6+ cost spell this game..
+Attack. 3.
+Health. 2. 

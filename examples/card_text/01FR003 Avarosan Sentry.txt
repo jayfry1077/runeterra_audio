@@ -1,0 +1,8 @@
+Name. Avarosan Sentry.
+Region. Freljord.
+Cost. 2.
+Description. Last Breath: Draw 1..
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Last Breath.

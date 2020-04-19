@@ -1,0 +1,5 @@
+Name. Elixir of Iron.
+Region. Freljord.
+Cost. 1.
+Description. Give an ally +0|+2 this round..
+Spell Speed. Burst.

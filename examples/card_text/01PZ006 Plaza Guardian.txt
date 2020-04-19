@@ -1,0 +1,8 @@
+Name. Plaza Guardian.
+Region. Piltover & Zaun.
+Cost. 10.
+Description. Reduce my cost by 1 for each spell you've cast this game..
+Attack. 6.
+Health. 6. 
+Keywords.
+1. Quick Attack.

@@ -1,0 +1,13 @@
+Name. Draven's Biggest Fan.
+Region. Noxus.
+Cost. 1.
+Description. When I'm summoned, move Draven to the top of your deck if you don't have him in hand or in play..
+Attack. 2.
+Health. 1. 
+Associated card 1. Name. Draven.
+Cost. 3.
+Description. Play or Strike: Create a Spinning Axe in hand..
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Quick Attack.

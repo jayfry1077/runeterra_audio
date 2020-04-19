@@ -1,0 +1,5 @@
+Name. Shunpo.
+Region. Noxus.
+Cost. 5.
+Description. Deal 2 to an enemy unit, then Rally..
+Spell Speed. Slow.

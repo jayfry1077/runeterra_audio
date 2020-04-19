@@ -1,0 +1,5 @@
+Name. Take Heart.
+Region. Freljord.
+Cost. 3.
+Description. Grant a damaged ally +3|+3..
+Spell Speed. Burst.

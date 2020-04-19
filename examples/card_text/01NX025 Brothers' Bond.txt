@@ -1,0 +1,5 @@
+Name. Brothers' Bond.
+Region. Noxus.
+Cost. 2.
+Description. Grant two allies +2|+0..
+Spell Speed. Burst.

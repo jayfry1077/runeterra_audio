@@ -1,0 +1,10 @@
+Name. Mageseeker Investigator.
+Region. Demacia.
+Cost. 3.
+Description. Create a Detain once you've cast a 6+ cost spell this game..
+Attack. 3.
+Health. 3. 
+Associated card 1. Name. Detain.
+Cost. 5.
+Description. An ally Captures a unit..
+Spell Speed. Fast.

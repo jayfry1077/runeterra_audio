@@ -1,0 +1,6 @@
+Name. Ancient Crocolith.
+Region. Shadow Isles.
+Cost. 4.
+Description. To play me, kill 2 allies..
+Attack. 7.
+Health. 7. 

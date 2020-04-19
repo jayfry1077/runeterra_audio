@@ -1,0 +1,6 @@
+Name. Thermogenic Beam.
+Region. Piltover & Zaun.
+Cost. 0.
+Description. To play, spend all your mana.
+Deal that much to a unit..
+Spell Speed. Slow.

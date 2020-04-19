@@ -1,0 +1,5 @@
+Name. Withering Wail.
+Region. Shadow Isles.
+Cost. 5.
+Description. Deal 1 to all enemy units. Heal your Nexus 3..
+Spell Speed. Fast.

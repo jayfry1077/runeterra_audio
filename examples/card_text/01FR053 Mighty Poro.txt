@@ -1,0 +1,7 @@
+Name. Mighty Poro.
+Region. Freljord.
+Cost. 3.
+Attack. 3.
+Health. 3. 
+Keywords.
+1. Overwhelm.

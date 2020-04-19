@@ -1,0 +1,6 @@
+Name. Scarthane Steffen.
+Region. Freljord.
+Cost. 3.
+Description. When I survive damage, grant me +3|+0..
+Attack. 2.
+Health. 4. 

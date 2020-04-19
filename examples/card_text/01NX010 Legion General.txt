@@ -1,0 +1,8 @@
+Name. Legion General.
+Region. Noxus.
+Cost. 5.
+Description. When I'm summoned, grant me +1|+1 for each unit you've Stunned or Recalled this game. .
+Attack. 4.
+Health. 4. 
+Keywords.
+1. Fearsome.

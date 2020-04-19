@@ -1,0 +1,8 @@
+Name. Fae Bladetwirler.
+Region. Ionia.
+Cost. 2.
+Description. When you Stun or Recall a unit, grant me +2|+0..
+Attack. 1.
+Health. 3. 
+Keywords.
+1. Quick Attack.

@@ -1,0 +1,20 @@
+Name. Karma.
+Region. Ionia.
+Cost. 5.
+Description. Round End: Create a random spell in hand..
+Attack. 4.
+Health. 3. 
+Level up criteria. You're Enlightened..
+Associated card 1. Name. Karma.
+Cost. 5.
+Description. When you play a spell, cast it again on the same targets..
+Attack. 5.
+Health. 4. 
+Keywords.
+1. Imbue.
+Associated card 2. Name. Karma's Insight of Ages.
+Cost. 2.
+Description. Create another random spell in hand.
+Enlightened: Create 2 instead.
+Shuffle a Karma into your deck..
+Spell Speed. Burst.

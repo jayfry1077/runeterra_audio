@@ -1,0 +1,9 @@
+Name. Legion Saboteur.
+Region. Noxus.
+Cost. 1.
+Description. Attack: Deal 1 to the enemy Nexus..
+Attack. 2.
+Health. 1. 
+Associated card 1. Name. Sabotage.
+Cost. 0.
+Description. Deal 1 to the enemy Nexus..

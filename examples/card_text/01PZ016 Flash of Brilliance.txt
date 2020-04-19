@@ -1,0 +1,6 @@
+Name. Flash of Brilliance.
+Region. Piltover & Zaun.
+Cost. 3.
+Description. Create a random spell that costs 6+ in hand.
+Refill your spell mana..
+Spell Speed. Burst.

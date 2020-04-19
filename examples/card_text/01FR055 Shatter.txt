@@ -1,0 +1,5 @@
+Name. Shatter.
+Region. Freljord.
+Cost. 2.
+Description. Deal 4 to an enemy unit if it has 0 Power. Otherwise, Frostbite it..
+Spell Speed. Slow.

@@ -1,0 +1,5 @@
+Name. Twin Disciplines.
+Region. Ionia.
+Cost. 3.
+Description. Give an ally +3|+0 or +0|+3 this round..
+Spell Speed. Burst.

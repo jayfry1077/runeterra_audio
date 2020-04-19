@@ -1,0 +1,8 @@
+Name. Scarmaiden Reaver.
+Region. Freljord.
+Cost. 5.
+Attack. 4.
+Health. 5. 
+Keywords.
+1. Overwhelm.
+2. Regeneration.

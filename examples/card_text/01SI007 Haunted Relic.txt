@@ -1,0 +1,11 @@
+Name. Haunted Relic.
+Region. Shadow Isles.
+Cost. 2.
+Description. Summon 3 Unleashed Spirits..
+Spell Speed. Slow.
+Associated card 1. Name. Unleashed Spirit.
+Cost. 1.
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Ephemeral.

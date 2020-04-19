@@ -1,0 +1,6 @@
+Name. Parade Electrorig.
+Region. Piltover & Zaun.
+Cost. 3.
+Description. Support: Shuffle 4 copies of the supported ally into your deck..
+Attack. 2.
+Health. 4. 

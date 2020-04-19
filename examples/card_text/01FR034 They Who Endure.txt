@@ -1,0 +1,8 @@
+Name. They Who Endure.
+Region. Freljord.
+Cost. 6.
+Description. When I'm summoned, grant me +1|+1 for each ally that has died..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Overwhelm.

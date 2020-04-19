@@ -1,0 +1,8 @@
+Name. Trifarian Gloryseeker.
+Region. Noxus.
+Cost. 2.
+Attack. 5.
+Health. 1. 
+Keywords.
+1. Challenger.
+2. Can't Block.

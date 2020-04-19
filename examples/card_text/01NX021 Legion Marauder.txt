@@ -1,0 +1,6 @@
+Name. Legion Marauder.
+Region. Noxus.
+Cost. 3.
+Description. Attack: Grant allied Legion Marauders everywhere +1|+1..
+Attack. 3.
+Health. 2. 

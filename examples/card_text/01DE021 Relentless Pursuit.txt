@@ -1,0 +1,5 @@
+Name. Relentless Pursuit.
+Region. Demacia.
+Cost. 3.
+Description. Rally..
+Spell Speed. Fast.

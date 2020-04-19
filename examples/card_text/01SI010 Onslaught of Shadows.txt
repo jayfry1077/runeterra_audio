@@ -1,0 +1,11 @@
+Name. Onslaught of Shadows.
+Region. Shadow Isles.
+Cost. 2.
+Description. Summon 2 Spectral Riders..
+Spell Speed. Slow.
+Associated card 1. Name. Spectral Rider.
+Cost. 2.
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Ephemeral.

@@ -1,0 +1,5 @@
+Name. Splinter Soul.
+Region. Shadow Isles.
+Cost. 3.
+Description. Summon an exact copy of an ally. It's Ephemeral and 1|1..
+Spell Speed. Slow.

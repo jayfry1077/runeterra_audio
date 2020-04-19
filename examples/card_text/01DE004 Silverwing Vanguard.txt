@@ -1,0 +1,15 @@
+Name. Silverwing Vanguard.
+Region. Demacia.
+Cost. 4.
+Description. When I'm summoned, summon an exact copy of me..
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Challenger.
+Associated card 1. Name. Silverwing Vanguard.
+Cost. 4.
+Description. When I'm summoned, summon an exact copy of me..
+Attack. 2.
+Health. 1. 
+Keywords.
+1. Challenger.

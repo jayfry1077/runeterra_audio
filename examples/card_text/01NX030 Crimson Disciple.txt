@@ -1,0 +1,6 @@
+Name. Crimson Disciple.
+Region. Noxus.
+Cost. 2.
+Description. When I survive damage, deal 2 to the enemy Nexus..
+Attack. 2.
+Health. 3. 

@@ -1,0 +1,5 @@
+Name. Riposte.
+Region. Demacia.
+Cost. 4.
+Description. Give an ally +3|+0 and Barrier this round..
+Spell Speed. Burst.

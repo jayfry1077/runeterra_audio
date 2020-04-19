@@ -1,0 +1,25 @@
+Name. Teemo.
+Region. Piltover & Zaun.
+Cost. 1.
+Description. Nexus Strike: Plant 5 Poison Puffcaps on random cards in the enemy deck..
+Attack. 1.
+Health. 1. 
+Keywords.
+1. Elusive.
+Level up criteria. You've planted 15+ Poison Puffcaps..
+Associated card 1. Name. Teemo.
+Cost. 1.
+Description. Nexus Strike: Double the Poison Puffcaps in the enemy deck..
+Attack. 2.
+Health. 2. 
+Keywords.
+1. Elusive.
+Associated card 2. Name. Poison Puffcap.
+Cost. 0.
+Description. Deal 1 to your Nexus..
+Description. Deal 1 to your Nexus..
+Associated card 2. Name. Teemo's Mushroom Cloud.
+Cost. 1.
+Description. Plant 5 Poison Puffcaps on random cards in the enemy deck.
+Shuffle a Teemo into your deck..
+Spell Speed. Burst.
