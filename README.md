@@ -22,7 +22,7 @@ Now that you're done with all the setup, this should be a breeze to use.
 
 Currently there are 4 things you can do:
 
-##JSON TO TEXT FILES##
+## JSON TO TEXT FILES ##
 
 blitzcrank.card_grab(path_to_file=str, path_to_save=str)
 
@@ -55,13 +55,13 @@ blitzcrank.card_grab(path_to_file=str, path_to_save=str)
   
 Each text file is ran through AWS Polly text to speech. It will save them as OGG files, and then WAV files. The great thing about this setup is you dont need to use blitzcrank to grab the text files. You can create them all yourself if youwant, but the naming scheme must be the same for each text file.
 
-##TEXT FILES TO AUDIO FILES##
+## TEXT FILES TO AUDIO FILES ##
 
 sona.text_to_audio(TEXT_PATH, OGG_PATH, WAV_PATH)
 
 You give it a PATH to all the text files, it will run them through AWS Poll and save them to paths of your choice.
 
-##DECKS TO AUDIO##
+## DECKS TO AUDIO ##
 
 heimerdinger.deck_code_to_audio(deck_code, "Bannermen", WAV_PATH, SAVE_PATH, 2 )
 
